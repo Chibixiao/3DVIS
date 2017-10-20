@@ -1,186 +1,167 @@
 Ticker,Type,Description,Exchange,Expiry Date
-CLZ17,Future,Crude Oil Dec 2017,NYMEX,11/20/17
-CLF18,Future,Crude Oil Jan 2018,NYMEX,12/19/17
-CLG18,Future,Crude Oil Feb 2018,NYMEX,01/22/18
-CLH18,Future,Crude Oil Mar 2018,NYMEX,02/20/18
-CLJ18,Future,Crude Oil Apr 2018,NYMEX,03/20/18
-CLK18,Future,Crude Oil May 2018,NYMEX,04/20/18
-CLM18,Future,Crude Oil Jun 2018,NYMEX,05/22/18
-CLN18,Future,Crude Oil Jul 2018,NYMEX,06/20/18
-CLQ18,Future,Crude Oil Aug 2018,NYMEX,07/20/18
-CLU18,Future,Crude Oil Sep 2018,NYMEX,08/21/18
-CLV18,Future,Crude Oil Oct 2018,NYMEX,09/20/18
-CLX18,Future,Crude Oil Nov 2018,NYMEX,10/22/18
-CLZ18,Future,Crude Oil Dec 2018,NYMEX,11/19/18
-CLF19,Future,Crude Oil Jan 2019,NYMEX,12/19/18
-CLG19,Future,Crude Oil Feb 2019,NYMEX,01/22/19
-CLH19,Future,Crude Oil Mar 2019,NYMEX,02/20/19
-CLJ19,Future,Crude Oil Apr 2019,NYMEX,03/20/19
-CLK19,Future,Crude Oil May 2019,NYMEX,04/22/19
-CLM19,Future,Crude Oil Jun 2019,NYMEX,05/21/19
-CLN19,Future,Crude Oil Jul 2019,NYMEX,06/20/19
-RBZ17,Future,NYHarborBlendstock RBOB Dec 2017,NYMEX,11/30/17
-RBF18,Future,NYHarborBlendstock RBOB Jan 2018,NYMEX,12/29/17
-RBG18,Future,NYHarborBlendstock RBOB Feb 2018,NYMEX,01/31/18
-RBH18,Future,NYHarborBlendstock RBOB Mar 2018,NYMEX,02/28/18
-RBJ18,Future,NYHarborBlendstock RBOB Apr 2018,NYMEX,03/29/18
-RBK18,Future,NYHarborBlendstock RBOB May 2018,NYMEX,04/30/18
-RBM18,Future,NYHarborBlendstock RBOB Jun 2018,NYMEX,05/31/18
-RBN18,Future,NYHarborBlendstock RBOB Jul 2018,NYMEX,06/29/18
-RBQ18,Future,NYHarborBlendstock RBOB Aug 2018,NYMEX,07/31/18
-RBU18,Future,NYHarborBlendstock RBOB Sep 2018,NYMEX,08/31/18
-RBV18,Future,NYHarborBlendstock RBOB Oct 2018,NYMEX,09/28/18
-RBX18,Future,NYHarborBlendstock RBOB Nov 2018,NYMEX,10/31/18
-RBZ18,Future,NYHarborBlendstock RBOB Dec 2018,NYMEX,11/30/18
-RBF19,Future,NYHarborBlendstock RBOB Jan 2019,NYMEX,12/31/18
-RBG19,Future,NYHarborBlendstock RBOB Feb 2019,NYMEX,01/31/19
-RBH19,Future,NYHarborBlendstock RBOB Mar 2019,NYMEX,02/28/19
-RBJ19,Future,NYHarborBlendstock RBOB Apr 2019,NYMEX,03/29/19
-RBK19,Future,NYHarborBlendstock RBOB May 2019,NYMEX,04/30/19
-RBM19,Future,NYHarborBlendstock RBOB Jun 2019,NYMEX,05/31/19
-RBN19,Future,NYHarborBlendstock RBOB Jul 2019,NYMEX,06/28/19
-HOZ17,Future,Heating Oil Dec 2017,NYMEX,11/30/17
-HOF18,Future,Heating Oil Jan 2018,NYMEX,12/29/17
-HOG18,Future,Heating Oil Feb 2018,NYMEX,01/31/18
-HOH18,Future,Heating Oil Mar 2018,NYMEX,02/28/18
-HOJ18,Future,Heating Oil Apr 2018,NYMEX,03/29/18
-HOK18,Future,Heating Oil May 2018,NYMEX,04/30/18
-HOM18,Future,Heating Oil Jun 2018,NYMEX,05/31/18
-HON18,Future,Heating Oil Jul 2018,NYMEX,06/29/18
-HOQ18,Future,Heating Oil Aug 2018,NYMEX,07/31/18
-HOU18,Future,Heating Oil Sep 2018,NYMEX,08/31/18
-HOV18,Future,Heating Oil Oct 2018,NYMEX,09/28/18
-HOX18,Future,Heating Oil Nov 2018,NYMEX,10/31/18
-HOZ18,Future,Heating Oil Dec 2018,NYMEX,11/30/18
-HOF19,Future,Heating Oil Jan 2019,NYMEX,12/31/18
-HOG19,Future,Heating Oil Feb 2019,NYMEX,01/31/19
-HOH19,Future,Heating Oil Mar 2019,NYMEX,02/28/19
-HOJ19,Future,Heating Oil Apr 2019,NYMEX,03/29/19
-HOK19,Future,Heating Oil May 2019,NYMEX,04/30/19
-HOM19,Future,Heating Oil Jun 2019,NYMEX,05/31/19
-HON19,Future,Heating Oil Jul 2019,NYMEX,06/28/19
-NGZ17,Future,Natural Gas Dec 2017,NYMEX,11/28/17
-NGF18,Future,Natural Gas Jan 2018,NYMEX,12/27/17
-NGG18,Future,Natural Gas Feb 2018,NYMEX,01/29/18
-NGH18,Future,Natural Gas Mar 2018,NYMEX,02/26/18
-NGJ18,Future,Natural Gas Apr 2018,NYMEX,03/27/18
-NGK18,Future,Natural Gas May 2018,NYMEX,04/26/18
-NGM18,Future,Natural Gas Jun 2018,NYMEX,05/29/18
-NGN18,Future,Natural Gas Jul 2018,NYMEX,06/27/18
-NGQ18,Future,Natural Gas Aug 2018,NYMEX,07/27/18
-NGU18,Future,Natural Gas Sep 2018,NYMEX,08/29/18
-NGV18,Future,Natural Gas Oct 2018,NYMEX,09/26/18
-NGX18,Future,Natural Gas Nov 2018,NYMEX,10/29/18
-NGZ18,Future,Natural Gas Dec 2018,NYMEX,11/28/18
-NGF19,Future,Natural Gas Jan 2019,NYMEX,12/27/18
-NGG19,Future,Natural Gas Feb 2019,NYMEX,01/29/19
-NGH19,Future,Natural Gas Mar 2019,NYMEX,02/26/19
-NGJ19,Future,Natural Gas Apr 2019,NYMEX,03/27/19
-NGK19,Future,Natural Gas May 2019,NYMEX,04/26/19
-NGM19,Future,Natural Gas Jun 2019,NYMEX,05/29/19
-NGN19,Future,Natural Gas Jul 2019,NYMEX,06/26/19
-WZ17,Future,Wheat Dec 2017,CBOT,12/14/17
-WH18,Future,Wheat Mar 2018,CBOT,03/14/18
-WK18,Future,Wheat May 2018,CBOT,05/14/18
-WN18,Future,Wheat Jul 2018,CBOT,07/13/18
-WU18,Future,Wheat Sep 2018,CBOT,09/14/18
-WZ18,Future,Wheat Dec 2018,CBOT,12/14/18
-WH19,Future,Wheat Mar 2019,CBOT,03/14/19
-WK19,Future,Wheat May 2019,CBOT,05/14/19
+CLZ17,Future,Crude Oil Dec 2017,NYMEX,20/11/2017
+CLF18,Future,Crude Oil Jan 2018,NYMEX,19/12/2017
+CLG18,Future,Crude Oil Feb 2018,NYMEX,22/01/2018
+CLH18,Future,Crude Oil Mar 2018,NYMEX,20/02/2018
+CLJ18,Future,Crude Oil Apr 2018,NYMEX,20/03/2018
+CLK18,Future,Crude Oil May 2018,NYMEX,20/04/2018
+CLM18,Future,Crude Oil Jun 2018,NYMEX,22/05/2018
+CLN18,Future,Crude Oil Jul 2018,NYMEX,20/06/2018
+CLQ18,Future,Crude Oil Aug 2018,NYMEX,20/07/2018
+CLU18,Future,Crude Oil Sep 2018,NYMEX,21/08/2018
+CLV18,Future,Crude Oil Oct 2018,NYMEX,20/09/2018
+CLX18,Future,Crude Oil Nov 2018,NYMEX,22/10/2018
+CLZ18,Future,Crude Oil Dec 2018,NYMEX,19/11/2018
+CLF19,Future,Crude Oil Jan 2019,NYMEX,19/12/2018
+CLG19,Future,Crude Oil Feb 2019,NYMEX,22/01/2019
+CLH19,Future,Crude Oil Mar 2019,NYMEX,20/02/2019
+CLJ19,Future,Crude Oil Apr 2019,NYMEX,20/03/2019
+CLK19,Future,Crude Oil May 2019,NYMEX,22/04/2019
+CLM19,Future,Crude Oil Jun 2019,NYMEX,21/05/2019
+CLN19,Future,Crude Oil Jul 2019,NYMEX,20/06/2019
+RBZ17,Future,NYHarborBlendstock RBOB Dec 2017,NYMEX,30/11/2017
+RBF18,Future,NYHarborBlendstock RBOB Jan 2018,NYMEX,29/12/2017
+RBG18,Future,NYHarborBlendstock RBOB Feb 2018,NYMEX,31/01/2018
+RBH18,Future,NYHarborBlendstock RBOB Mar 2018,NYMEX,28/02/2018
+RBJ18,Future,NYHarborBlendstock RBOB Apr 2018,NYMEX,29/03/2018
+RBK18,Future,NYHarborBlendstock RBOB May 2018,NYMEX,30/04/2018
+RBM18,Future,NYHarborBlendstock RBOB Jun 2018,NYMEX,31/05/2018
+RBN18,Future,NYHarborBlendstock RBOB Jul 2018,NYMEX,29/06/2018
+RBQ18,Future,NYHarborBlendstock RBOB Aug 2018,NYMEX,31/07/2018
+RBU18,Future,NYHarborBlendstock RBOB Sep 2018,NYMEX,31/08/2018
+RBV18,Future,NYHarborBlendstock RBOB Oct 2018,NYMEX,28/09/2018
+RBX18,Future,NYHarborBlendstock RBOB Nov 2018,NYMEX,31/10/2018
+RBZ18,Future,NYHarborBlendstock RBOB Dec 2018,NYMEX,30/11/2018
+RBF19,Future,NYHarborBlendstock RBOB Jan 2019,NYMEX,31/12/2018
+RBG19,Future,NYHarborBlendstock RBOB Feb 2019,NYMEX,31/01/2019
+RBH19,Future,NYHarborBlendstock RBOB Mar 2019,NYMEX,28/02/2019
+RBJ19,Future,NYHarborBlendstock RBOB Apr 2019,NYMEX,29/03/2019
+RBK19,Future,NYHarborBlendstock RBOB May 2019,NYMEX,30/04/2019
+RBM19,Future,NYHarborBlendstock RBOB Jun 2019,NYMEX,31/05/2019
+RBN19,Future,NYHarborBlendstock RBOB Jul 2019,NYMEX,28/06/2019
+HOZ17,Future,Heating Oil Dec 2017,NYMEX,30/11/2017
+HOF18,Future,Heating Oil Jan 2018,NYMEX,29/12/2017
+HOG18,Future,Heating Oil Feb 2018,NYMEX,31/01/2018
+HOH18,Future,Heating Oil Mar 2018,NYMEX,28/02/2018
+HOJ18,Future,Heating Oil Apr 2018,NYMEX,29/03/2018
+HOK18,Future,Heating Oil May 2018,NYMEX,30/04/2018
+HOM18,Future,Heating Oil Jun 2018,NYMEX,31/05/2018
+HON18,Future,Heating Oil Jul 2018,NYMEX,29/06/2018
+HOQ18,Future,Heating Oil Aug 2018,NYMEX,31/07/2018
+HOU18,Future,Heating Oil Sep 2018,NYMEX,31/08/2018
+HOV18,Future,Heating Oil Oct 2018,NYMEX,28/09/2018
+HOX18,Future,Heating Oil Nov 2018,NYMEX,31/10/2018
+HOZ18,Future,Heating Oil Dec 2018,NYMEX,30/11/2018
+HOF19,Future,Heating Oil Jan 2019,NYMEX,31/12/2018
+HOG19,Future,Heating Oil Feb 2019,NYMEX,31/01/2019
+HOH19,Future,Heating Oil Mar 2019,NYMEX,28/02/2019
+HOJ19,Future,Heating Oil Apr 2019,NYMEX,29/03/2019
+HOK19,Future,Heating Oil May 2019,NYMEX,30/04/2019
+HOM19,Future,Heating Oil Jun 2019,NYMEX,31/05/2019
+HON19,Future,Heating Oil Jul 2019,NYMEX,28/06/2019
+NGZ17,Future,Natural Gas Dec 2017,NYMEX,28/11/2017
+NGF18,Future,Natural Gas Jan 2018,NYMEX,27/12/2017
+NGG18,Future,Natural Gas Feb 2018,NYMEX,29/01/2018
+NGH18,Future,Natural Gas Mar 2018,NYMEX,26/02/2018
+NGJ18,Future,Natural Gas Apr 2018,NYMEX,27/03/2018
+NGK18,Future,Natural Gas May 2018,NYMEX,26/04/2018
+NGM18,Future,Natural Gas Jun 2018,NYMEX,29/05/2018
+NGN18,Future,Natural Gas Jul 2018,NYMEX,27/06/2018
+NGQ18,Future,Natural Gas Aug 2018,NYMEX,27/07/2018
+NGU18,Future,Natural Gas Sep 2018,NYMEX,29/08/2018
+NGV18,Future,Natural Gas Oct 2018,NYMEX,26/09/2018
+NGX18,Future,Natural Gas Nov 2018,NYMEX,29/10/2018
+NGZ18,Future,Natural Gas Dec 2018,NYMEX,28/11/2018
+NGF19,Future,Natural Gas Jan 2019,NYMEX,27/12/2018
+NGG19,Future,Natural Gas Feb 2019,NYMEX,29/01/2019
+NGH19,Future,Natural Gas Mar 2019,NYMEX,26/02/2019
+NGJ19,Future,Natural Gas Apr 2019,NYMEX,27/03/2019
+NGK19,Future,Natural Gas May 2019,NYMEX,26/04/2019
+NGM19,Future,Natural Gas Jun 2019,NYMEX,29/05/2019
+NGN19,Future,Natural Gas Jul 2019,NYMEX,26/06/2019
+WZ17,Future,Wheat Dec 2017,CBOT,14/12/2017
+WH18,Future,Wheat Mar 2018,CBOT,14/03/2018
+WK18,Future,Wheat May 2018,CBOT,14/05/2018
+WN18,Future,Wheat Jul 2018,CBOT,13/07/2018
+WU18,Future,Wheat Sep 2018,CBOT,14/09/2018
+WZ18,Future,Wheat Dec 2018,CBOT,14/12/2018
+WH19,Future,Wheat Mar 2019,CBOT,14/03/2019
+WK19,Future,Wheat May 2019,CBOT,14/05/2019
 WN19,Future,Wheat Jul 2019,CBOT,07/12/2019
-WU19,Future,Wheat Sep 2019,CBOT,09/13/19
-WZ19,Future,Wheat Dec 2019,CBOT,12/13/19
-CZ17,Future,Corn Dec 2017,CBOT,12/14/17
-CH18,Future,Corn Mar 2018,CBOT,03/14/18
-CK18,Future,Corn May 2018,CBOT,05/14/18
-CN18,Future,Corn Jul 2018,CBOT,07/13/18
-CU18,Future,Corn Sep 2018,CBOT,09/14/18
-CZ18,Future,Corn Dec 2018,CBOT,12/14/18
-CH19,Future,Corn Mar 2019,CBOT,03/14/19
-CK19,Future,Corn May 2019,CBOT,05/14/19
+WU19,Future,Wheat Sep 2019,CBOT,13/09/2019
+WZ19,Future,Wheat Dec 2019,CBOT,13/12/2019
+CZ17,Future,Corn Dec 2017,CBOT,14/12/2017
+CH18,Future,Corn Mar 2018,CBOT,14/03/2018
+CK18,Future,Corn May 2018,CBOT,14/05/2018
+CN18,Future,Corn Jul 2018,CBOT,13/07/2018
+CU18,Future,Corn Sep 2018,CBOT,14/09/2018
+CZ18,Future,Corn Dec 2018,CBOT,14/12/2018
+CH19,Future,Corn Mar 2019,CBOT,14/03/2019
+CK19,Future,Corn May 2019,CBOT,14/05/2019
 CN19,Future,Corn Jul 2019,CBOT,07/12/2019
-CU19,Future,Corn Sep 2019,CBOT,09/13/19
-CZ19,Future,Corn Dec 2019,CBOT,12/13/19
-SX17,Future,Soybeans Nov 2017,CBOT,11/14/17
+CU19,Future,Corn Sep 2019,CBOT,13/09/2019
+CZ19,Future,Corn Dec 2019,CBOT,13/12/2019
+SX17,Future,Soybeans Nov 2017,CBOT,14/11/2017
 SF18,Future,Soybeans Jan 2018,CBOT,01/12/2018
-SH18,Future,Soybeans Mar 2018,CBOT,03/14/18
-SK18,Future,Soybeans May 2018,CBOT,05/14/18
-SN18,Future,Soybeans Jul 2018,CBOT,07/13/18
-SU18,Future,Soybeans Sep 2018,CBOT,09/14/18
-SX18,Future,Soybeans Nov 2018,CBOT,11/14/18
-SF19,Future,Soybeans Jan 2019,CBOT,01/14/19
-SH19,Future,Soybeans Mar 2019,CBOT,03/14/19
-SK19,Future,Soybeans May 2019,CBOT,05/14/19
+SH18,Future,Soybeans Mar 2018,CBOT,14/03/2018
+SK18,Future,Soybeans May 2018,CBOT,14/05/2018
+SN18,Future,Soybeans Jul 2018,CBOT,13/07/2018
+SU18,Future,Soybeans Sep 2018,CBOT,14/09/2018
+SX18,Future,Soybeans Nov 2018,CBOT,14/11/2018
+SF19,Future,Soybeans Jan 2019,CBOT,14/01/2019
+SH19,Future,Soybeans Mar 2019,CBOT,14/03/2019
+SK19,Future,Soybeans May 2019,CBOT,14/05/2019
 SN19,Future,Soybeans Jul 2019,CBOT,07/12/2019
-SU19,Future,Soybeans Sep 2019,CBOT,09/13/19
-SX19,Future,Soybeans Nov 2019,CBOT,11/14/19
+SU19,Future,Soybeans Sep 2019,CBOT,13/09/2019
+SX19,Future,Soybeans Nov 2019,CBOT,14/11/2019
 SMF18,Future,Soybean Meal Jan 2018,CBOT,01/12/2018
-SMH18,Future,Soybean Meal Mar 2018,CBOT,03/14/18
-SMK18,Future,Soybean Meal May 2018,CBOT,05/14/18
-SMN18,Future,Soybean Meal Jul 2018,CBOT,07/13/18
-SMU18,Future,Soybean Meal Sep 2018,CBOT,09/14/18
-SMF19,Future,Soybean Meal Jan 2019,CBOT,01/14/19
-SMH19,Future,Soybean Meal Mar 2019,CBOT,03/14/19
-SMK19,Future,Soybean Meal May 2019,CBOT,05/14/19
+SMH18,Future,Soybean Meal Mar 2018,CBOT,14/03/2018
+SMK18,Future,Soybean Meal May 2018,CBOT,14/05/2018
+SMN18,Future,Soybean Meal Jul 2018,CBOT,13/07/2018
+SMU18,Future,Soybean Meal Sep 2018,CBOT,14/09/2018
+SMF19,Future,Soybean Meal Jan 2019,CBOT,14/01/2019
+SMH19,Future,Soybean Meal Mar 2019,CBOT,14/03/2019
+SMK19,Future,Soybean Meal May 2019,CBOT,14/05/2019
 SMN19,Future,Soybean Meal Jul 2019,CBOT,07/12/2019
-SMU19,Future,Soybean Meal Sep 2019,CBOT,09/13/19
-BOZ17,Future,Soybean Oil Dec 2017,CBOT,12/14/17
+SMU19,Future,Soybean Meal Sep 2019,CBOT,13/09/2019
+BOZ17,Future,Soybean Oil Dec 2017,CBOT,14/12/2017
 BOF18,Future,Soybean Oil Jan 2018,CBOT,01/12/2018
-BOH18,Future,Soybean Oil Mar 2018,CBOT,03/14/18
-BOK18,Future,Soybean Oil May 2018,CBOT,05/14/18
-BON18,Future,Soybean Oil Jul 2018,CBOT,07/13/18
-BOU18,Future,Soybean Oil Sep 2018,CBOT,09/14/18
-BOZ18,Future,Soybean Oil Dec 2018,CBOT,12/14/18
-BOF19,Future,Soybean Oil Jan 2019,CBOT,01/14/19
-BOH19,Future,Soybean Oil Mar 2019,CBOT,03/14/19
-BOK19,Future,Soybean Oil May 2019,CBOT,05/14/19
+BOH18,Future,Soybean Oil Mar 2018,CBOT,14/03/2018
+BOK18,Future,Soybean Oil May 2018,CBOT,14/05/2018
+BON18,Future,Soybean Oil Jul 2018,CBOT,13/07/2018
+BOU18,Future,Soybean Oil Sep 2018,CBOT,14/09/2018
+BOZ18,Future,Soybean Oil Dec 2018,CBOT,14/12/2018
+BOF19,Future,Soybean Oil Jan 2019,CBOT,14/01/2019
+BOH19,Future,Soybean Oil Mar 2019,CBOT,14/03/2019
+BOK19,Future,Soybean Oil May 2019,CBOT,14/05/2019
 BON19,Future,Soybean Oil Jul 2019,CBOT,07/12/2019
-BOU19,Future,Soybean Oil Sep 2019,CBOT,09/13/19
-BOZ19,Future,Soybean Oil Dec 2019,CBOT,12/13/19
-TUZ17,Future,2 Year U.S. Treasury Notes Dec 2017,CBOT,12/29/17
-TUH18,Future,2 Year U.S. Treasury Notes Mar 2018,CBOT,03/29/18
-TUM18,Future,,,
-TUU18,Future,,,
-TUZ18,Future,,,
-FVZ17,Future,5 Yr U.S.Treasury Notes Dec 2017,CBOT,12/29/17
-FVH18,Future,5 Yr U.S.Treasury Notes Mar 2018,CBOT,03/29/18
-FVM18,Future,,,
-FVU18,Future,,,
-FVZ18,Future,,,
-TYZ17,Future,10 Yr U.S. Treasury Notes Dec 2017,CBOT,12/19/17
-TYH18,Future,10 Yr U.S. Treasury Notes Mar 2018,CBOT,03/20/18
-TYM18,Future,,,
-TYU18,Future,,,
-TYZ18,Future,,,
-TENZ17,Future,Ultra 10-Year T-Note Dec 2017,CBOT,12/19/17
-TENH18,Future,,,
-TENM18,Future,,,
-TENU18,Future,,,
-TENZ18,Future,,,
-USZ17,Future,30 Yr U.S.Treasury Bonds Dec 2017,CBOT,12/19/17
-USH18,Future,30 Yr U.S.Treasury Bonds Mar 2018,CBOT,03/20/18
-USM18,Future,,,
-USU18,Future,,,
-USZ18,Future,,,
-UBZ17,Future,Ultra T-Bond Dec 2017,CBOT,12/19/17
-UBH18,Future,Ultra T-Bond Mar 2018,CBOT,03/20/18
-UBM18,Future,,,
-UBU18,Future,,,
-UBZ18,Future,,,
-EDZ17,Future,Eurodollar Dec 2017,CME,12/18/17
-EDH18,Future,Eurodollar Mar 2018,CME,03/19/18
-EDM18,Future,Eurodollar Jun 2018,CME,06/18/18
-EDU18,Future,Eurodollar Sep 2018,CME,09/17/18
-EDZ18,Future,Eurodollar Dec 2018,CME,12/17/18
-EDH19,Future,Eurodollar Mar 2019,CME,03/18/19
-EDM19,Future,Eurodollar Jun 2019,CME,06/17/19
-EDU19,Future,Eurodollar Sep 2019,CME,09/16/19
-EDZ19,Future,Eurodollar Dec 2019,CME,12/16/19
-EDH20,Future,Eurodollar Mar 2020,CME,03/16/20
-EDM20,Future,Eurodollar Jun 2020,CME,06/15/20
-EDU20,Future,Eurodollar Sep 2020,CME,09/14/20
-EDZ20,Future,Eurodollar Dec 2020,CME,12/14/20
-EDH21,Future,Eurodollar Mar 2021,CME,03/15/21
-EDM21,Future,Eurodollar Jun 2021,CME,06/14/21
-EDU21,Future,Eurodollar Sep 2021,CME,09/13/21
-EDZ21,Future,Eurodollar Dec 2021,CME,12/13/21
+BOU19,Future,Soybean Oil Sep 2019,CBOT,13/09/2019
+BOZ19,Future,Soybean Oil Dec 2019,CBOT,13/12/2019
+TUZ17,Future,2 Year U.S. Treasury Notes Dec 2017,CBOT,29/12/2017
+TUH18,Future,2 Year U.S. Treasury Notes Mar 2018,CBOT,29/03/2018
+FVZ17,Future,5 Yr U.S.Treasury Notes Dec 2017,CBOT,29/12/2017
+FVH18,Future,5 Yr U.S.Treasury Notes Mar 2018,CBOT,29/03/2018
+TYZ17,Future,10 Yr U.S. Treasury Notes Dec 2017,CBOT,19/12/2017
+TYH18,Future,10 Yr U.S. Treasury Notes Mar 2018,CBOT,20/03/2018
+TENZ17,Future,Ultra 10-Year T-Note Dec 2017,CBOT,19/12/2017
+USZ17,Future,30 Yr U.S.Treasury Bonds Dec 2017,CBOT,19/12/2017
+USH18,Future,30 Yr U.S.Treasury Bonds Mar 2018,CBOT,20/03/2018
+UBZ17,Future,Ultra T-Bond Dec 2017,CBOT,19/12/2017
+UBH18,Future,Ultra T-Bond Mar 2018,CBOT,20/03/2018
+EDZ17,Future,Eurodollar Dec 2017,CME,18/12/2017
+EDH18,Future,Eurodollar Mar 2018,CME,19/03/2018
+EDM18,Future,Eurodollar Jun 2018,CME,18/06/2018
+EDU18,Future,Eurodollar Sep 2018,CME,17/09/2018
+EDZ18,Future,Eurodollar Dec 2018,CME,17/12/2018
+EDH19,Future,Eurodollar Mar 2019,CME,18/03/2019
+EDM19,Future,Eurodollar Jun 2019,CME,17/06/2019
+EDU19,Future,Eurodollar Sep 2019,CME,16/09/2019
+EDZ19,Future,Eurodollar Dec 2019,CME,16/12/2019
+EDH20,Future,Eurodollar Mar 2020,CME,16/03/2020
+EDM20,Future,Eurodollar Jun 2020,CME,15/06/2020
+EDU20,Future,Eurodollar Sep 2020,CME,14/09/2020
+EDZ20,Future,Eurodollar Dec 2020,CME,14/12/2020
+EDH21,Future,Eurodollar Mar 2021,CME,15/03/2021
+EDM21,Future,Eurodollar Jun 2021,CME,14/06/2021
+EDU21,Future,Eurodollar Sep 2021,CME,13/09/2021
+EDZ21,Future,Eurodollar Dec 2021,CME,13/12/2021
